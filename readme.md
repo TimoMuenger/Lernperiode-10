@@ -5,7 +5,8 @@
 ## Grob-Planung
 
 1. Welche 2 Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten? (Lassen Sie einen Platzhalter)
-2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten?
+   Das Frontend für die Valorant-API und das Backend für mit NestJS für die Task-Verwaltung
+3. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten?
 
 ## 22.5.
 
@@ -23,10 +24,9 @@
 
 ## 29.5.
 
-- [ ] Start-Seite 1
-- [ ] Start-Seite 2
-- [ ] Start-Seite 3
-- [ ] Start-Seite 4
+- [ ] separate detaillierte Seite für jedes Projekt hinzufügen
+- [ ] Navigation einbauen bei der man auf der Startseite zwischen CV, Projekten, etc. hin und her navigieren kann
+- [ ] Design für Handys, dass es gleich gut aussieht wie auf dem Desktop
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
