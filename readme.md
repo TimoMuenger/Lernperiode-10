@@ -24,9 +24,9 @@
 
 ## 29.5.
 
-- [ ] separate detaillierte Seite für jedes Projekt hinzufügen
-- [ ] Navigation einbauen bei der man auf der Startseite zwischen CV, Projekten, etc. hin und her navigieren kann
-- [ ] Design für Handys, dass es gleich gut aussieht wie auf dem Desktop
+- [x] separate detaillierte Seite für jedes Projekt hinzufügen
+- [x] Navigation einbauen bei der man auf der Startseite zwischen CV, Projekten, etc. hin und her navigieren kann
+- [x] Design für Handys, dass es gleich gut aussieht wie auf dem Desktop
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
