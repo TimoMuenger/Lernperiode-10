@@ -38,3 +38,7 @@
 - [ ] Rückmeldung geben
 
 ☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Zusammenfassung
+Beide Rückmeldungen waren positiv. Überzeugt haben vor allem mein konkretes Beispiel zur Problemlösung und der klare Bezug zur Stellenausschreibung. Als Verbesserungspunkt wurde das Layout genannt - daran möchte ich künftig arbeiten, damit auch die optische Gestaltung professionell wirkt.
+
+https://www.linkedin.com/in/timo-m%C3%BCnger-71a26a414/
