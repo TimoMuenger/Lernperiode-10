@@ -42,3 +42,8 @@ Zusammenfassung
 Beide Rückmeldungen waren positiv. Überzeugt haben vor allem mein konkretes Beispiel zur Problemlösung und der klare Bezug zur Stellenausschreibung. Als Verbesserungspunkt wurde das Layout genannt - daran möchte ich künftig arbeiten, damit auch die optische Gestaltung professionell wirkt.
 
 https://www.linkedin.com/in/timo-m%C3%BCnger-71a26a414/
+
+## 19.06
+
+- [ ] LinkedIn-Profil/Eigene Website ausputzen (1 Lektion)
+- [ ] RoboCode Roboter programmieren (4 Lektionen)
