@@ -43,9 +43,11 @@ Beide Rückmeldungen waren positiv. Überzeugt haben vor allem mein konkretes Be
 
 https://www.linkedin.com/in/timo-m%C3%BCnger-71a26a414/
 
+## 12.06
+
+Heute habe ich noch angefangen mit dem ausputzen meines Linked in Profiles, wobei es da noch einiges zu machen gibt nächste Woche
+
 ## 19.06
 
 - [ ] LinkedIn-Profil/Eigene Website ausputzen (1 Lektion)
 - [ ] RoboCode Roboter programmieren (4 Lektionen)
-
-Heute habe ich noch angefangen mit dem ausputzen meines Linked in Profiles, wobei es da noch einiges zu machen gibt nächste Woche
